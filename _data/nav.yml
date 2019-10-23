@@ -6,3 +6,5 @@ items:
     path: '/archive'
   - text: 'About'
     path: '/about'
+  - text: 'wmf'
+    path: '/wmf'

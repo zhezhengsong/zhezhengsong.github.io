@@ -1,49 +1,34 @@
 text: |
 
-  Write something about yourself here using markdown.
+  I'm a third year CS major student from Xi'an Jiaotong University, now I'm studying at UC Berkeley.
+  My interested areas are Programming Language
 
-  ## Lists
+  ## Courses
+  The courses I have taken in UC Berkeley are:
+  + CS 61C, Great Ideas in Computer Architecture (Machine Structures)
+  + CS 161, Computer Security
+  + CS 188, Introduction to Artifical Intelligence
+  + CS 263, Design of Programming Language
+  + CS 294-73, Software Engineering for Scientific Computing
+  + IEOR 162, Linear Programming and Network Flows
+  + STAT 133, Concepts of Conputing in Data
 
-  Unordered
+  The CS courses I have taken in XJTU are:
+  + Object-Oriented Programming
+  + Data Structure and Algorithms
+  + Efficient algorithm design
+  + Computer Graphics
 
-  + Create a list by starting a line with `+`, `-`, or `*`
-  + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-  + Very easy!
-
-  Ordered
-
-  1. Lorem ipsum dolor sit amet
-  2. Consectetur adipiscing elit
-  3. Integer molestie lorem at massa
+  ## Projects
+  + Personal Website
+  + Compiler
+  + FFTW
+  + RBMM
+  + DB
+  + System
+  + 列着玩的，都没做
 
 
-  1. You can use sequential numbers...
-  1. ...or keep all the numbers as `1.`
-
-  Start numbering with offset:
-
-  57. foo
-  1. bar
-
-  ## Tables
-
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-  Right aligned columns
-
-  | Option | Description |
-  | ------:| -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
 
 
   ## Links
