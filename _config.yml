@@ -5,14 +5,14 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Your awesome site name :)
+title: Zhezheng Song
 header: Write something about you here...
 
 # for welcome page
 # to replace image go to index.html
 email:
-  address: "user@example.com"
-  text: "user (at) example.com"
+  address: "szaizai18@gmail.com"
+  text: "szaizai18 (at) gmail.com"
 
 # disqus comment
 disqus:
