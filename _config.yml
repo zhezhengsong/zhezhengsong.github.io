@@ -6,8 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: Zhezheng Song
-header: 只有开心，才能找到自己喜欢的东西
-
+header: Happiness comes from growth.
 # for welcome page
 # to replace image go to index.html
 email:
