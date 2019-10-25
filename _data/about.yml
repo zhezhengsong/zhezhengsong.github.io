@@ -1,17 +1,18 @@
 text: |
 
   I'm a third year CS major student from Xi'an Jiaotong University, now I'm studying at UC Berkeley.
-  My interested areas are **Programming Language** and **System**.
+  My interested areas are **Programming Language**.
+  
+  ## Skills
+  + Programming: C++, Python, Go, OCaml, R
 
   ## Courses
-  The courses I have taken in UC Berkeley are:
+  The CS courses I have taken in UC Berkeley are:
   + CS 61C, Great Ideas in Computer Architecture (Machine Structures)
   + CS 161, Computer Security
   + CS 188, Introduction to Artifical Intelligence
   + CS 263, Design of Programming Language
   + CS 294-73, Software Engineering for Scientific Computing
-  + IEOR 162, Linear Programming and Network Flows
-  + STAT 133, Concepts of Conputing in Data
 
   The CS courses I have taken in XJTU are:
   + Object-Oriented Programming
@@ -26,13 +27,19 @@ text: |
   ## Projects
   + [Personal Website](https://zhezhengsong.github.io)
     - [repo](https://github.com/zhezhengsong/zhezhengsong.github.io)
+  + RBMM
+    - CS263 Project
+    - [repo](https://github.com/zhezhengsong/RBMM)
   + Compiler
   + FFTW
-  + RBMM
   + DB
-  + System
-  + 后面五个列着玩的，都没做，可能这学期会做 :)
+  + 后面三个列着玩的，还没做，可能这学期会做 :)
 
   ## Teaching
   + Lab assistant for CS61C at UC Berkeley
-    - Help students finish the lab and checkoff
+    - Do checkoff and help students finish the lab.
+
+  ## Programming Contest (with Tianyu Chen and Yuxuan Tang)
+  + 2018 ACM International Collegiate Programming Contest (Nanjing Regional)          Silver Award
+  + 2018 ACM International Collegiate Programming Contest (Qingdao Regional)          Silver Award
+  + 2018 China Collegiate Programming Contest (Guiling Regional)                      Silver Award
