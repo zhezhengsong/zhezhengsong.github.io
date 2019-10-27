@@ -1,55 +1,45 @@
 text: |
 
-  Write something about yourself here using markdown.
+  I'm a third year CS major student from Xi'an Jiaotong University, now I'm studying at UC Berkeley.
+  My interested areas are **Programming Language**.
+  
+  ## Skills
+  + Programming: C++, Python, Go, OCaml, R
 
-  ## Lists
+  ## Courses
+  The CS courses I have taken in UC Berkeley are:
+  + CS 61C, Great Ideas in Computer Architecture (Machine Structures)
+  + CS 161, Computer Security
+  + CS 188, Introduction to Artifical Intelligence
+  + CS 263, Design of Programming Language
+  + CS 294-73, Software Engineering for Scientific Computing
 
-  Unordered
+  The CS courses I have taken in XJTU are:
+  + Object-Oriented Programming
+  + Data Structure and Algorithms
+  + Efficient Algorithm Design
+  + Computer Graphics
 
-  + Create a list by starting a line with `+`, `-`, or `*`
-  + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-  + Very easy!
+  I've also taken 2 CS courses during the Summer School in the University of Manchester, they are:
+  + Introduction to Artifical Intelligence
+  + Introfuction to Machine Learning
 
-  Ordered
+  ## Projects
+  + [Personal Website](https://zhezhengsong.github.io)
+    - [repo](https://github.com/zhezhengsong/zhezhengsong.github.io)
+  + RBMM
+    - CS263 Project
+    - [repo](https://github.com/zhezhengsong/RBMM)
+  + Compiler
+  + FFTW
+  + DB
+  + 后面三个列着玩的，还没做，可能这学期会做 :)
 
-  1. Lorem ipsum dolor sit amet
-  2. Consectetur adipiscing elit
-  3. Integer molestie lorem at massa
+  ## Teaching
+  + Lab assistant for CS61C at UC Berkeley
+    - Do checkoff and help students finish the lab.
 
-
-  1. You can use sequential numbers...
-  1. ...or keep all the numbers as `1.`
-
-  Start numbering with offset:
-
-  57. foo
-  1. bar
-
-  ## Tables
-
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-  Right aligned columns
-
-  | Option | Description |
-  | ------:| -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-
-  ## Links
-
-  [link text](https://github.com)
-
-  [link with title](https://github.com/ "title text!")
-
-  Autoconverted link https://github.com (enable linkify to see)
+  ## Programming Contest (with Tianyu Chen and Yuxuan Tang)
+  + 2018 ACM-ICPC (Nanjing Regional)&nbsp&nbsp&nbsp&nbsp Silver Award
+  + 2018 ACM-ICPC (Qingdao Regional)&nbsp&nbsp&nbsp&nbsp Silver Award
+  + 2018 CCPC (Guiling Regional)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Silver Award
