@@ -20,4 +20,6 @@ Other lightweight ways:
   - a collection of techniques that allow a stsrem to detect, dynamically, when one of its components is not behaveing according to specification.
 + type system
   - BEST
+  - prove the absence of sth?
+
 
