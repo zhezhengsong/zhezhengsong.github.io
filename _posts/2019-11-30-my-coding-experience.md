@@ -1,9 +1,9 @@
 ---
-title: "My coding experience"
+title: "My coding experience: Programming Contest and Growth"
 tags: [experience]
 ---
 
-This article may be updated in the furture.
+
 
 
 
