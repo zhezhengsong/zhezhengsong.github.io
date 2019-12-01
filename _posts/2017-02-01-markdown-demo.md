@@ -1,9 +1,9 @@
 ---
-title: "Markdown demo"
-tags: [demo, markdown]
+title: "Test Blog"
+tags: [Test]
 ---
 
-Different examples of markdown content.
+# This is just a reminder of how to write a blog.
 
 ---
 

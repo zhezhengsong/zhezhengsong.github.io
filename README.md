@@ -1,17 +1,4 @@
-# Autm-rb
-
-Another theme for jekyll.
-
-## [DEMO][demo]
-
-## Customization
-
-Edit **_config.yml** and files inside **_data/** before using
-
-## Screens
-
-![](screenshots/home.png)
-![](screenshots/post.png)
+# Personal page of Zhezheng Song
 
 ## Licensing
 

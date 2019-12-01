@@ -3,7 +3,7 @@ title: "TPL reading notes"
 tags: [PL, books]
 ---
 
-pragmatism 实用主义
+pragmatism
 
 ## Chapter 1: Intro
 ### Types in CS
@@ -21,5 +21,7 @@ Other lightweight ways:
 + type system
   - BEST
   - prove the absence of sth?
-
-
+Two branches to the study of type systems.
++ practical one (main focus this book)
++ abstract one (focus between various "pure typed lambda-calculi" and varisties of logic, via Curry-Howard correspondence in orientation)
+Some languages sacrifice the guarantee to terminate of well-typed computation for the sake of features like recursive function definitions. (can't have both? why?)
