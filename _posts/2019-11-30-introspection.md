@@ -1,5 +1,0 @@
----
-title: "Introspection"
-tags: [introspection]
----
-
