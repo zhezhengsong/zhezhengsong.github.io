@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: Zhezheng Song
-header: Happiness comes from growth.
+header: Happiness comes from growth. 幸福感来源于成长。
 
 # for welcome page
 # to replace image go to index.html
