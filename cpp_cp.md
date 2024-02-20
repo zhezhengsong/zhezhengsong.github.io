@@ -1,0 +1,6 @@
+# Use C++ in Competetive Programming (CP)
+Zhezheng Song
+
+Due to the running speed advantage of C++ code, it is the most popular language in the competitive programming. In certain cases like big integer arithmatic, it's easier to solve the problem in Python or Java. However, all problems in ICPC are guanarteed to be able to be solved in C++ while there no such guanartee for Python if the time limit is very tight. Another advantage of C++ is the number of existing competetive programming materials in it. C++ is also known for its complexity and numerous features, but most of them are not that helpful. For example, things like Object Orienteed Programming are more useful in big softwares and can be replaced by "Struct" for faster coding and debugging in  Therefore, I wrote this article trying to cover all the C++ features and programming tricks which are useful in Competetive Programming. I assume you know the basic of C. I'll keep updating this if I found some new things useful.
+
+## Header
