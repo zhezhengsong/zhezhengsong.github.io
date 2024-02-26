@@ -1,3 +1,8 @@
+---
+permalink: /cpp-cp.html
+---
+
+
 https://codeforces.com/blog/entry/15643
 https://codeforces.com/blog/entry/9702
 https://codeforces.com/blog/entry/64218
