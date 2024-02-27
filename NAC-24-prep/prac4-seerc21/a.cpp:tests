@@ -1,0 +1,14 @@
+[
+	{
+		"test": "3\nBABBCC\n"
+	},
+	{
+		"test": "2\nCBAC\n"
+	},
+	{
+		"test": "1\nAA\n"
+	},
+	{
+		"test": "3\nABCACB\n"
+	}
+]

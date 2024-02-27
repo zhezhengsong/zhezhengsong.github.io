@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 #define ll long long
 #define mst(a,b) memset((a),(b),sizeof(a))
-#define all(x) (x).begin(), (x).end() // 1 + all(x)
-#define pii pair<int, int>
 #define pb push_back
 #define N 10009
 #define M 1000009
@@ -19,10 +17,7 @@ int T, n, m;
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(0);
-	cin >> T;
-	while (T --) {
-		
-	}
+	cin >> 
 
 	return 0;
 }
