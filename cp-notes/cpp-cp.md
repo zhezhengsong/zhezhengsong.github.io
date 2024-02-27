@@ -2,13 +2,6 @@
 permalink: /cpp-cp.html
 ---
 
-https://codeforces.com/blog/entry/9702
-https://codeforces.com/blog/entry/64218
-https://codeforces.com/blog/entry/62393
-https://codeforces.com/blog/entry/74684
-https://en.oi-wiki.org/lang/new/
-
-markdown inline block
 # Use C++ in Competetive Programming
 
 Zhezheng Song
@@ -47,14 +40,29 @@ Elements are stored in a sequential structure
 	- `forward_list`: a singly linked list.
 + Associative Containers:
 Elements are stored in a tree structure. They're implemented using the *red–black tree*.
-	- `set/multiset`: a container used to store distinct elements in an orderly manner. Nodes are arranged using a predicate to compare the elements. `multiset` allows equal elements to exist.
-	- `map/multimap`:  A set composed of {key, value} pairs arranged in a predicate that compares the key values size relationships. `multimap` allows equal elements to exist.
+	- `set/multiset`: a container used to store distinct elements in an orderly manner. `multiset` allows equal elements to exist.
+	- `map/multimap`:  A set composed of {key, value} pairs arranged in certain order of he key. `multimap` allows equal elements to exist.
 + Unordered Containers:
-They're implemented using the *hashmap*.
-	- `unordered_set/unordered_multiset`:
-	- `unordered_map/unordered_multimap`: 
+They're implemented using the *hashmap*. The difference with `set/multiset` and `map/multimap` is that elements are unordered.
+	- `unordered_set/unordered_multiset`
+	- `unordered_map/unordered_multimap`
++ Container Adaptars:
+They are not really containers since they doesn't contain certain features (e.g., iterator, `clear()` function...)
+	- 'stack' (LIFO) and 'queue' (FIFO): They are encapsulations of `deque`.
+	- `priority_queue`: A queue with sorted element. It's an encapsulation of `vector`.
+
+Common funcitons:?
+
 #### Sequence Containers
-### A trick to assign values to containers
+**`vector`**
+**`deque`**
+
+#### Associative Containers
+#### Unordered Containers
+#### Container Adaptars
+
+
+#### A trick to assign values to containers
 For a `pair<int, int> p;`, instead of assign value to it by `p = make_pair(3, 4);`, you can use `p = {3, 4};`.
 This also work for a more complex `pair` and other containers(`vector`, `deque`, `set`, `list`, `array`, and `tuple`):
 + `pair<pair<string, long long>, int> p = {3, {"szz", 22ll}, 2};`
@@ -89,5 +97,8 @@ __builtin_popcount(x)
 This function returns number of 1-bits of x. x is unsigned int and like previous function this function with suffix 'l' gets a unsigned long argument and with suffix 'll' gets a unsigned long long argument. If x == 0, returns an undefined value.
 
 e.g. __builtin_popcount(14) = 3 because 14 is '... 111 0' and has three 1-bits.
+### `bitset`
+### `string`
+### `pair`
 ## Compiler and Run/Debug using command line
 
