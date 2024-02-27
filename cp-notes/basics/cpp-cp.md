@@ -1,5 +1,5 @@
 ---
-permalink: /cp-notes/cpp-cp.html
+permalink: /cp-notes/basics/cpp-cp.html
 ---
 
 # Use C++ in Competetive Programming
