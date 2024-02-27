@@ -1,2 +1,2 @@
 # zhezhengsong.github.io
-[link] (/cpp-cp.md)
+[link] (/cpp-cp)
