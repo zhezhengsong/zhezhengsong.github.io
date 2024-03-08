@@ -2,7 +2,7 @@
 permalink: /cp-notes/cp-notes-index.html
 ---
 
-# Zhezheng Song's notes for Competitive Programming
+# My notes for Competitive Programming
 
 # Tutorials
 
