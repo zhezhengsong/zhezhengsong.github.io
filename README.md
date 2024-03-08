@@ -1,2 +1,3 @@
-# Tutorials and Solutions for PSU ICPC Practice
-[Use C++ in Competetive Programming](https://zhezhengsong.github.io/cp-notes/basics/cpp-cp)
+# Zhezheng Song
+
+Website source from [Mingyuan Xiang's homepage](https://mingyuan-xiang.github.io/).
